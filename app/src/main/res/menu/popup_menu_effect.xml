@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuNormal"
+          android:title="@string/no_effect"
+        />
+
+    <item android:id="@+id/menuVelocity"
+        android:title="@string/velocity"
+        />
+
+    <item android:id="@+id/menuAccelerometer"
+          android:title="@string/accelerometer"
+        />
+
+</menu>

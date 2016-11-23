@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ImpressionistPainter434</string>
+    <string name="brush_settings">Brush Shape: %1$s   |   Brush Color: %2$s   |   Brush Effect: %3$s</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="spray">Spray</string>
+    <string name="normal_color_mode">Normal Color Mode</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="complementary_color">Complementary Color</string>
+    <string name="no_effect">No Effect</string>
+    <string name="velocity">Velocity</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="brush_shape">Brush Shape</string>
+    <string name="brush_color">Brush Color</string>
+    <string name="brush_effect">Brush Effect</string>
+</resources>

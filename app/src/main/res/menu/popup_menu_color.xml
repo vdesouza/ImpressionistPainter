@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuDefaultColor"
+          android:title="@string/normal_color_mode" />
+
+    <item android:id="@+id/menuBlackWhite"
+          android:title="@string/grayscale" />
+
+    <item android:id="@+id/menuComplementary"
+          android:title="@string/complementary_color" />
+
+</menu>

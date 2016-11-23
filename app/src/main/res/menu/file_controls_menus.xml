@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:appNs="http://schemas.android.com/apk/res-auto">
+
+    <!-- download action -->
+    <item android:id="@+id/buttonDownloadImages"
+          android:icon="@drawable/ic_file_download"
+          android:title="   Download Photos"
+          appNs:showAsAction="ifRoom|withText"/>
+
+    <!-- Load Image action -->
+    <item android:id="@+id/buttonLoadImage"
+          android:icon="@drawable/ic_photo_library"
+          android:title="   Load Photo"
+          appNs:showAsAction="ifRoom|withText"/>
+
+    <!-- Save Image action -->
+    <item android:id="@+id/buttonSaveImage"
+          android:icon="@drawable/ic_add_to_photos"
+          android:title="   Save"
+          appNs:showAsAction="ifRoom|withText"/>
+
+    <!-- Load Image action -->
+    <item android:id="@+id/buttonClear"
+          android:icon="@drawable/ic_clear"
+          android:title="   Clear"
+          appNs:showAsAction="ifRoom|withText"/>
+
+</menu>
